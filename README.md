@@ -1,6 +1,6 @@
 # computer_vision_deeplearning
 computer vision based on deep learning lecture materials </br>
-<img height="150" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/app_example.PNG"/> </br>
+<center><img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/app_example.PNG"/> </br></center>
 
 # history
 2022.10. Development of computer vision deep learning lecture materials for training deep learning and computer vision application developers.</br>
