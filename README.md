@@ -1,5 +1,5 @@
 # computer_vision_deeplearning
-computer vision based on deep learning lecture materials 
+computer vision based on deep learning lecture materials </br>
 <img height="150" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/app_example.PNG"/> </br>
 
 # history
