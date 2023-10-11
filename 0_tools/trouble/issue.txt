@@ -1,0 +1,4 @@
+https://github.com/ultralytics/yolov3/issues/1643
+https://github.com/ultralytics/yolov5/issues/5226
+https://la60312.medium.com/setup-cuda-11-with-rtx3080-for-deep-learning-554aa4ff1e76
+https://github.com/pytorch/pytorch/issues/45028
