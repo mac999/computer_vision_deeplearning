@@ -1,5 +1,6 @@
 # computer_vision_deeplearning
 computer vision based on deep learning lecture materials 
+<img height="150" src="https://github.com/mac999/computer_vision_deeplearning/edit/main/app_example.PNG"/> </br>
 
 # history
 2022.10. Development of computer vision deep learning lecture materials for training deep learning and computer vision application developers.</br>
@@ -10,5 +11,7 @@ how to prepare a deep learning application development environment such as vscod
 how to use hyper parameter tunnning</br> 
 how to develop simple computer vision service using flask, python.</br>
 
+# reference
+[The fastest object detection algorithm YOLO! Completely conquered through model implementation](https://fastcampus.co.kr/data_online_yolo)
 
 
