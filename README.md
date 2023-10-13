@@ -3,6 +3,7 @@ computer vision based on deep learning lecture materials </br>
 <center><img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/app_example.PNG"/></center></br>
 
 # history
+2022.8. Request for lectures on deep learning and vision technology for practitioners. Start writing lecture materials.</br>
 2022.10. Development of computer vision deep learning lecture materials for training deep learning and computer vision application developers.</br>
 
 # contents
