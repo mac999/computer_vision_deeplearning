@@ -4,6 +4,7 @@ computer vision based on deep learning lecture materials </br>
 
 # history
 2022.8. Request for lectures on deep learning and vision technology for practitioners. Start writing lecture materials.</br>
+2022.9. Record, review, and supplement lecture videos based on written materials.</br>
 2022.10. Development of computer vision deep learning lecture materials for training deep learning and computer vision application developers.</br>
 
 # contents
