@@ -15,6 +15,6 @@ how to use hyper parameter tunnning</br>
 how to develop simple computer vision service using YOLO, flask, python.</br>
 
 # reference
-[The fastest object detection algorithm YOLO! Completely conquered through model implementation](https://fastcampus.co.kr/data_online_yolo)
+[The fastest object detection algorithm YOLO! Completely conquered through model implementation, FAST CAMPUS](https://fastcampus.co.kr/data_online_yolo)
 
 
