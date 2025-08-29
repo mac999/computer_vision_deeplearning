@@ -6,9 +6,9 @@ This course goes beyond simply running pre-existing code. The core objective is 
 
 Moreover, you will experience the complete development lifecycle: from setting up a professional development environment (including tools like **VS Code, Docker, and CUDA**) and optimizing model performance through **hyperparameter tuning**, to ultimately building and deploying a **computer vision web service using YOLO and Flask**. These materials are designed to provide a solid foundation for your journey to becoming a professional in the field of deep learning and computer vision.
 
-\<p align="center"\>
-\<img src="[https://raw.githubusercontent.com/mac999/computer\_vision\_deeplearning/main/app\_example.PNG](https://www.google.com/search?q=https://raw.githubusercontent.com/mac999/computer_vision_deeplearning/main/app_example.PNG)" width="400"\>
-\</p\>
+<p align="center"\>
+<img src="[https://raw.githubusercontent.com/mac999/computer\_vision\_deeplearning/main/app\_example.PNG](https://www.google.com/search?q=https://raw.githubusercontent.com/mac999/computer_vision_deeplearning/main/app_example.PNG)" width="400"\>
+</p>
 
 -----
 
