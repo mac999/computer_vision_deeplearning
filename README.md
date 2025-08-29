@@ -46,3 +46,8 @@ This course provides a comprehensive guide to deep learning for computer vision,
 ## Reference
 
   * [The Fastest Object Detection Algorithm YOLO\! A Complete Guide Through Model Implementation, FAST CAMPUS](https://fastcampus.co.kr/media_data_yolointerview220914)
+<p align="center"\>
+<img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/fastcamp1.png"/><img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/fastcamp2.png"/>
+<img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/fastcamp3.png"/>
+
+</p>
