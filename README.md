@@ -58,3 +58,10 @@ For collaboration inquiries, please feel free to reach out:
 <img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/fastcamp3.png"/>
 
 </p>
+
+## License
+This repository is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial projects.
+
+## Author
+Taewook Kang</br>
+laputa99999@gmail.com
