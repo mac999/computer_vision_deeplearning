@@ -63,5 +63,4 @@ For collaboration inquiries, please feel free to reach out:
 This repository is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial projects.
 
 ## Author
-Taewook Kang</br>
-laputa99999@gmail.com
+Ph.D, Taewook Kang (laputa99999@gmail.com)
