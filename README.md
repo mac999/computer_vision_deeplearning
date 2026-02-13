@@ -1,10 +1,10 @@
 ## Computer Vision with Deep Learning
 
-This repository provides in-depth lecture materials on computer vision using deep learning. It is systematically structured to guide learners through the entire workflow of a computer vision developer, from fundamental theory to real-world application development.
+This repository provides in-depth lecture materials on computer vision using deep learning with [Presentation including Syllabus](https://github.com/mac999/computer_vision_deeplearning/blob/main/Vision%20and%20YOLO.pdf). It is systematically structured to guide learners through the entire workflow of a computer vision developer with object detection like YOLO, from fundamental theory to real-world application development.
 
 This course goes beyond simply running pre-existing code. The core objective is to foster a deep understanding by having you implement the internal mechanisms of key deep learning models—such as **CNN, ResNet, R-CNN, and YOLO**—from the ground up. With hands-on exercises in PyTorch and Keras, you will gain proficiency in translating complex theories into functional code.
 
-Moreover, you will experience the complete development lifecycle: from setting up a professional development environment (including tools like **VS Code, Docker, and CUDA**) and optimizing model performance through **hyperparameter tuning**, to ultimately building and deploying a **computer vision web service using YOLO and Flask**. These materials are designed to provide a solid foundation for your journey to becoming a professional in the field of deep learning and computer vision.
+Moreover, you will experience the complete development lifecycle: from setting up a professional development environment (including tools like **VS Code, Docker, and CUDA**) and optimizing model performance through **hyperparameter tuning**, to ultimately building and deploying a **computer vision web service using YOLO and Flask**. These materials are designed to provide a solid foundation for your journey to becoming a professional in the field of deep learning and computer vision. In the future, I have plan to add CLIP, VAE, stable diffusion and 3D point cloud segmentation. 
 
 <p align="center"\>
 <img height="300" src="https://github.com/mac999/computer_vision_deeplearning/blob/main/app_example.PNG"/>
